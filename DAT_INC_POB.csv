@@ -266,3 +266,4 @@ Sudáfrica,ZAF,"Tasa de incidencia de la pobreza, sobre la base de la línea de 
 Zambia,ZMB,"Tasa de incidencia de la pobreza, sobre la base de la línea de pobreza nacional (% de la población)",SI.POV.NAHC,54.7,,,,,54.4,,,,,,
 Zimbabwe,ZWE,"Tasa de incidencia de la pobreza, sobre la base de la línea de pobreza nacional (% de la población)",SI.POV.NAHC,,22.5,,,,,,30.4,,38.3,,
 
+$cv = new convert_csv_to_LATIN1($file_address,$saveto=false);

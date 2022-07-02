@@ -265,4 +265,3 @@ Kosovo,XKX,Proportion of people living below 50 percent of median income (%),SI.
 Sudáfrica,ZAF,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,23.5,,,,23.5,,,,,,,
 Zambia,ZMB,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,18.9,,,,,25.3,,,,,,
 Zimbabwe,ZWE,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,,,16.7,,,,,,12.7,,16.8,
-$cv = new convert_csv_to_LATIN1($file_address,$saveto=false);

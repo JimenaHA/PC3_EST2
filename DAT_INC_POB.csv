@@ -1,4 +1,5 @@
-$cv = new convert_csv_to_LATIN1($file_address,$saveto=false);
+
+$cv = new convert_csv_to_LATIN1($DAT_INC_POB,$saveto=false);
 Country Name,Country Code,Indicator Name,Indicator Code,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
 Aruba,ABW,"Tasa de incidencia de la pobreza, sobre la base de la línea de pobreza nacional (% de la población)",SI.POV.NAHC,,,,,,,,,,,,
 ,AFE,"Tasa de incidencia de la pobreza, sobre la base de la línea de pobreza nacional (% de la población)",SI.POV.NAHC,,,,,,,,,,,,

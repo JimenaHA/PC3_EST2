@@ -1,4 +1,4 @@
-$cv = new convert_csv_to_LATIN1($Dat_Barrios,$saveto=false);
+$cv = new convert_csv_to_LATIN1($Dat_Barrios.csv,$saveto=false);
 Country Name,Country Code,Indicator Name,Indicator Code,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
 Aruba,ABW,Población que vive en barrios de tugurios (% de la población urbana),EN.POP.SLUM.UR.ZS,,,,,,,,,,,,
 ,AFE,Población que vive en barrios de tugurios (% de la población urbana),EN.POP.SLUM.UR.ZS,55.65179742,,,,58.75439645,,57.19622486,,55.7709732,,,

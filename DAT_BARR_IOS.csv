@@ -265,10 +265,3 @@ Kosovo,XKX,Población que vive en barrios de tugurios (% de la población urbana
 Sudáfrica,ZAF,Población que vive en barrios de tugurios (% de la población urbana),EN.POP.SLUM.UR.ZS,23,,,,23,,26.29999924,,25.60000038,,,
 Zambia,ZMB,Población que vive en barrios de tugurios (% de la población urbana),EN.POP.SLUM.UR.ZS,57.29999924,,,,54,,63.29999924,,54.59999847,,,
 Zimbabwe,ZWE,Población que vive en barrios de tugurios (% de la población urbana),EN.POP.SLUM.UR.ZS,24.10000038,,,,25.10000038,,28.29999924,,33.5,,,
-
-
-
-
-
-
-$cv = new convert_csv_to_LATIN1($DAT_BARR_IOS,$saveto=false);

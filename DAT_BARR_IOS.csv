@@ -267,4 +267,3 @@ Zambia,ZMB,Población que vive en barrios de tugurios (% de la población urbana
 Zimbabwe,ZWE,Población que vive en barrios de tugurios (% de la población urbana),EN.POP.SLUM.UR.ZS,24.10000038,,,,25.10000038,,28.29999924,,33.5,,,
 
 
-$cv = new convert_csv_to_LATIN1($DAT_BARR_IOS,$saveto=false);

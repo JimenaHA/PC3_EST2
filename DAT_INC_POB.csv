@@ -1,3 +1,4 @@
+$cv = new convert_csv_to_LATIN1($file_address,$saveto=false);
 Country Name,Country Code,Indicator Name,Indicator Code,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
 Aruba,ABW,"Tasa de incidencia de la pobreza, sobre la base de la línea de pobreza nacional (% de la población)",SI.POV.NAHC,,,,,,,,,,,,
 ,AFE,"Tasa de incidencia de la pobreza, sobre la base de la línea de pobreza nacional (% de la población)",SI.POV.NAHC,,,,,,,,,,,,
@@ -265,5 +266,3 @@ Kosovo,XKX,"Tasa de incidencia de la pobreza, sobre la base de la línea de pobr
 Sudáfrica,ZAF,"Tasa de incidencia de la pobreza, sobre la base de la línea de pobreza nacional (% de la población)",SI.POV.NAHC,53.2,,,,55.5,,,,,,,
 Zambia,ZMB,"Tasa de incidencia de la pobreza, sobre la base de la línea de pobreza nacional (% de la población)",SI.POV.NAHC,54.7,,,,,54.4,,,,,,
 Zimbabwe,ZWE,"Tasa de incidencia de la pobreza, sobre la base de la línea de pobreza nacional (% de la población)",SI.POV.NAHC,,22.5,,,,,,30.4,,38.3,,
-
-$cv = new convert_csv_to_LATIN1($file_address,$saveto=false);

@@ -1,3 +1,4 @@
+$cv = new convert_csv_to_LATIN1($dat_total_4grafs,$saveto=false);
 País,DataBARR,DataMISC,DataGIN,DAT_IDH
 Afganistán,70.6999969482422,,,0.511
 Albania,,,,0.796
